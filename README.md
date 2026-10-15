@@ -20,7 +20,7 @@ Multi-Agent · Causal Simulation · 3D Sandbox
 
 ## 查看作品
 
-- [独立展示页](./index.html)
+- [在线展示页](https://lukezhuo666.github.io/LukeZ-CityScope/)
 - [原项目与实现记录](https://github.com/eiddiedev/CityScope)
 - [LukeZ 总作品集](https://lukezhuo666.github.io/LukeZ/)
 
